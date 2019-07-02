@@ -1,0 +1,17 @@
+body{
+  background-color: #EBEDEF;
+}
+.first p{
+  display: inline-block;
+}
+.ipad{ 
+  display: inline-block;
+  border:1px solid red;
+  width: 15rem;
+  height: 15rem;
+}
+.on-ftr{
+	background: #091444;
+	padding: 45px 0px;
+	color: #fff;
+}

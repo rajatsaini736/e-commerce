@@ -1,0 +1,33 @@
+.row {
+  background-color: white; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.row li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+.tag11{
+  width: 120px;
+  padding: 10px;
+  border: 50px solid gray;
+  margin: 0;
+}
+.card:hover{
+	-webkit-box-shadow:-1px 9px 40px -12px rgb(0,0,0,75);
+	-moz-box-shadow:-1px 9px 40px -12px rgb(0,0,0,75);
+	box-shadow: -1px 9px 40px -12px rgb(0,0,0,75);
+}
+.clr-2{
+  color: #091444;
+  /*font-weight: 800px;*/
+}
+.on-ftr{
+	background: #091444;
+	padding: 45px 0px;
+	color: #fff;
+}

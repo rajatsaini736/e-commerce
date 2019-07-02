@@ -1,0 +1,71 @@
+<style>
+body{background-image: url("CreasyPaperBackground.jpg");}
+
+h1  {background-color: white;
+     text-shadow:2px 2px 5px blue;
+     padding: 25px;
+     color: blue;
+     text-align: center;}
+ul {
+    list-style-type: none;
+    margin: 30;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a,.dropbtn0 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover , .dropdown0:hover .dropbtn0{
+    background-color: #111111;
+}
+li.dropdown0{display:inline-block;}
+.dropdown-content0{display:none;
+ position:absolute;
+ background-color: #f9f9f9;
+min-width: 160px;
+box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index:1;}
+.dropdown-content0 a:hover{backgroune-color:#f1f1f1;}
+.dropdown0:hover .dropdown-content0{display:block;}
+.dropdown-content0 a{ 
+    color:red;
+    padding:12px 16px;
+    text-decoration:none;
+    display:block;
+    text-align:left;
+}
+
+.index_header0
+{
+  text-align: center;
+  width: 300px;
+  height: 40;
+  background-color: blue;
+  padding: 16px; 
+  display: inline-block;
+}
+.footer01{
+  background-color:black;
+  text-align: center;
+  color:white;
+  padding:20px;
+  float: left;
+  width:25%;
+}
+
+.img{max-width:100%;
+      height:auto;}
+      
+
+</style>
